@@ -13,8 +13,8 @@ External resources such as Font Awesome icons are also included for styling.
 # CSS:
 
                 
-                 The CSS code styles the elements of the Spotify clone webpage. It 
-includes global styles for resetting default padding and margin, setting the font
+                 The CSS code styles the elements of the Spotify clone webpage.
+It includes global styles for resetting default padding and margin, setting the font
 family to Montserrat, and defining basic font properties for the body. Specific styles
 are applied to the sidebar, topbar, Spotify playlists sections, and the preview section,
 focusing on using a dark color scheme, Montserrat font, and hover effects for interactive 
